@@ -11,18 +11,19 @@ Installation
 
 To run this portfolio, simply clone the following repository to your local machine:
 
-git clone git@github.com:manuelita9/ManuelaMedinaPortfolio.git
+git clone 
+git@github.com:manuelita9/ManuelaMedinaPortfolio.git
 
-Usage
+Usage:
 Once the repository has been cloned, open the index.html file in your web browser to view the portfolio.
 
-Technologies Used
+Technologies Used:
 This portfolio was built using HTML, CSS, and JavaScript.
 
-Projects
-Here are some of the projects I collaborated in completed and added to my portfolio:
+Projects:
+Here are some of the projects I collaborated in:
 
-Streamer's den 
+Streamer's den &
 Fortress Defense 
 
 About Me
